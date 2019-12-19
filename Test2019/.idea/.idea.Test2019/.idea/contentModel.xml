@@ -1,13 +1,45 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Eric\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Eric\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Test2019.-364247212.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Eric\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Eric\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Test2019.-364247212.00" t="ExcludeRecursive" />
     <e p="F:\Users\Eric\Source\Workspaces\TestGame\Test2019" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Input" t="Include">
+          <e p="PlayerInput.cs" t="Include" />
+        </e>
+        <e p="NavMeshComponents" t="Include">
+          <e p="Editor" t="Include">
+            <e p="NavMeshAssetManager.cs" t="Include" />
+            <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+            <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+            <e p="NavMeshLinkEditor.cs" t="Include" />
+            <e p="NavMeshModifierEditor.cs" t="Include" />
+            <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+            <e p="NavMeshSurfaceEditor.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="NavMeshComponents.asmdef" t="Include" />
+            <e p="NavMeshLink.cs" t="Include" />
+            <e p="NavMeshModifier.cs" t="Include" />
+            <e p="NavMeshModifierVolume.cs" t="Include" />
+            <e p="NavMeshSurface.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ScriptableObjects" t="Include">
+          <e p="PathPoints.cs" t="Include" />
+          <e p="PlayerState.cs" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
+          <e p="Prototype" t="Include">
+            <e p="CameraController.cs" t="Include" />
+            <e p="PathTest.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="TileCoordinates.cs" t="Include" />
+            <e p="TileCoordinateSystem.cs" t="Include" />
+          </e>
           <e p="SimpleCameraController.cs" t="Include" />
         </e>
         <e p="TutorialInfo" t="Include">
@@ -19,6 +51,8 @@
           </e>
         </e>
       </e>
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp\bin" t="ExcludeRecursive" />
